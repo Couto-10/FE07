@@ -1,0 +1,16 @@
+.caixa1 {
+  background-color: rgba(245, 26, 26, 0.466);
+  width: 200px;
+  padding: 10px 30px;
+  border: 2px solid rgb(230, 15, 15);
+  box-sizing: content-box;
+}
+
+.caixa2 {
+  background-color: rgba(10, 233, 10, 0.363);
+  width: 200px;
+  padding: 10px 30px;
+  border: 2px solid rgb(51, 255, 0);
+  box-sizing: border-box;
+  margin-top: 20px;
+}

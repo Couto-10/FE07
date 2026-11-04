@@ -1,0 +1,7 @@
+.caixaDiv {
+  width: 300px;
+  height: 60px;
+  padding: 20px;
+  border: 2px solid #1558c9;
+  box-sizing: border-box;
+}
